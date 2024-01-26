@@ -1,5 +1,5 @@
-# create an ACR in Terraform
-Terraform script(s) to deploy an azure container registry (ACR) 
+# Deploy an Azure Container Registry Instance using Terraform
+This repository contains Terraform script(s) that will deploy a private azure container registry (ACR) instance for you. The ACR instance is private, and will only be accessible via a private endpoint (public network access is disabled).
 
 # Prerequisites
 Software Required:
